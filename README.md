@@ -1,4 +1,14 @@
-# Docs
-This Repository Will be Published as a Github Page
 
-### Content
+# Mostafa Saeed Hashhash
+
+**Email :** mostafasaeed483@gmail.com
+
+## Links
+    - linkedIn
+    - Github
+    - Kaggle
+
+## Education 
+
+#### Menoufiya Uni. Faculty of Electronic Engineering.
+

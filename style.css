@@ -1,22 +1,33 @@
 
 .cont 
 {
-    background-color: #dddddd;
-    padding: 10px ;
-    width: 800px;
+    background-color: #eee;
+    padding: 10px 10px 25px 25px ;
+    width: 600px;
     margin: 15px auto ;
-    border-radius: 50px;
-    border : 2px solid #666 ;
-    text-align: center;
+    border-radius: 20px;
+    border : 1px solid #333 ;
     
 }
 
+h1 ,h2,h3
+{
+    text-align: center;
+}
+
+.head 
+{
+    text-align: center;
+
+}
 
 img
 {
-    height: 300px;
-    border: 2px solid #666;
-    border-radius: 25px;
+    height: 200px;
+    width: 33%;
+    border: 1px solid #333;
+    border-radius: 250px;
+
 }
 
 span
@@ -35,4 +46,22 @@ ul
 {
     display: inline;
     padding: 0px 5px ;
+}
+
+a:link, a:visited {
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:#111;
+  }
+
+a
+{ 
+    border-radius: 10px;
 }
